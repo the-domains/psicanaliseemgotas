@@ -1,0 +1,28 @@
+name: Psicanaliseemgotas
+favicon: null
+layout_spectrum: 0.6327934614382684
+typography_spectrum: 0.029814410721883178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7194239818491042
+  lightness: 0.9953002964612097
+  saturation: 0.3228387066628784
+  rhythmicContrast: 0.3537669831421226
+purpose: []
