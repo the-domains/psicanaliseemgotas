@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Saiba quem somos
-datePublished: '2016-01-22T19:56:31.248Z'
+datePublished: '2016-01-22T19:56:31.352Z'
 dateModified: '2016-01-22T19:56:23.094Z'
 title: Sobre
 author: []
