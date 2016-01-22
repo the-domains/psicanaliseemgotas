@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Saiba quem somos
-datePublished: '2016-01-22T19:56:31.352Z'
-dateModified: '2016-01-22T19:56:23.094Z'
+datePublished: '2016-01-22T20:01:28.062Z'
+dateModified: '2016-01-22T20:01:20.629Z'
 title: Sobre
 author: []
 sourcePath: _posts/2016-01-22-primeiro-post.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 O objetivo deste site é oferecer uma visão inovadora sobre a Psicanálise.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9302a13-f7ed-4477-ab93-aa4cc30ca14d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2cbc379f525c9623443102e9d5e0a2a929d5d7a.jpg)
