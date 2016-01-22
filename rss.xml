@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Psicanaliseemgotas]]></title>
+        <description><![CDATA[Psicanaliseemgotas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 20:13:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefinedba998d10-a914-41c4-9b26-ad3b9d9bf7e2/index.html</link>
+            <guid isPermaLink="false">ba998d10-a914-41c4-9b26-ad3b9d9bf7e2</guid>
+            <pubDate>Fri, 22 Jan 2016 20:13:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
