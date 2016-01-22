@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Aprendendo a usar The Grid
-datePublished: '2016-01-22T19:43:13.702Z'
-dateModified: '2016-01-22T19:42:17.105Z'
-title: Primeiro Post
+description: Saiba quem somos
+datePublished: '2016-01-22T19:56:31.248Z'
+dateModified: '2016-01-22T19:56:23.094Z'
+title: Sobre
 author: []
+sourcePath: _posts/2016-01-22-primeiro-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-primeiro-post.md
-published: true
 url: primeiro-post/index.html
-_type: Article
+_type: WebPage
 
 ---
 O objetivo deste site é oferecer uma visão inovadora sobre a Psicanálise.
